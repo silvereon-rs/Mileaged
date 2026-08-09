@@ -1,0 +1,162 @@
+MILEAGED - GOOGLE PLAY STORE DESCRIPTIONS
+
+=====================================================
+SHORT DESCRIPTION (80 characters max for Play Store)
+=====================================================
+
+Track your vehicle's fuel efficiency and mileage with complete privacy. All data stays on your device.
+
+=====================================================
+FULL DESCRIPTION (4000 characters max)
+=====================================================
+
+Welcome to Mileaged - The Simple, Private Vehicle Mileage Tracker
+
+Track your vehicle's fuel efficiency, mileage, and refueling history with complete privacy. All your data stays on your device. No tracking, no ads, no data collection.
+
+🚗 CORE FEATURES
+
+✓ Vehicle Management
+  - Add unlimited vehicles
+  - Store custom images for each vehicle
+  - Switch between vehicles with one tap
+  - Edit or delete vehicles anytime
+
+✓ Mileage Tracking (Tank-to-Tank Method)
+  - Record fuel filled at each pump
+  - Automatic mileage calculation
+  - Historical data tracking
+  - Mean fuel efficiency calculation
+
+✓ Refueling History
+  - Track fuel costs
+  - Monitor fuel price trends
+  - View detailed refueling records
+  - Calculate total spending per vehicle
+
+✓ Data Management
+  - Export all data as JSON backup
+  - Import previous backups
+  - Clear all data with one action
+  - No complicated setup required
+
+✓ Customization
+  - Multiple accent colors
+  - Dark mode support
+  - Choose metric (km/l) or imperial (mpg) units
+  - Persistent preferences
+
+✓ Backup & Sync (Optional)
+  - Manually sync to Google Drive
+  - Restore from Google Drive backups
+  - Full control over backup data
+  - No automatic uploads
+
+🔒 PRIVACY FIRST
+
+Your privacy is our priority:
+
+✗ We do NOT collect any personal data
+✗ We do NOT use analytics or tracking
+✗ We do NOT display advertisements
+✗ We do NOT sell your data
+✗ We do NOT access your contacts or location
+✗ We do NOT require account sign-in
+
+All vehicle records, mileage history, and refueling data remains entirely on your device in a secure local database. You have complete control over your data at all times.
+
+📊 WHY USE MILEAGED?
+
+• Understand Your Vehicle
+  Monitor fuel efficiency trends to identify mechanical issues early or plan maintenance schedules.
+
+• Budget Better
+  Track fuel costs and spending patterns to optimize your budget and reduce expenses.
+
+• Simple & Intuitive
+  Clean, user-friendly interface makes tracking effortless. Just record fuel amounts and let the app calculate everything.
+
+• Works Offline
+  No internet required for normal operation. All calculations happen instantly on your device.
+
+• Lightweight
+  Minimal app size with zero bloat. Fast, responsive, and efficient.
+
+⚙️ TECHNICAL DETAILS
+
+Permissions Explained:
+• Read External Storage - Access gallery images when you add vehicle photos
+• Internet - Only used if you choose to enable Google Drive backup
+• Read Media Images - Modern Android image picker integration
+
+Data Storage:
+• All data stored in app's private sandbox
+• No sync to remote servers unless you enable Google Drive backup
+• Your data remains yours entirely
+
+🎯 PERFECT FOR
+
+✓ Personal car owners tracking fuel efficiency
+✓ Fleet managers monitoring multiple vehicles
+✓ Business owners tracking vehicle expenses
+✓ Eco-conscious users optimizing fuel usage
+✓ Users who value privacy and control
+
+💡 HOW IT WORKS
+
+1. Add Your Vehicle - Enter vehicle name and optional photo
+2. Record Refueling - Input fuel amount and optional cost each time you refuel
+3. Track Mileage - When you fill up again, the app calculates efficiency automatically
+4. Monitor Trends - View detailed history and statistics for each vehicle
+5. Export or Backup - Download your data or sync to Google Drive anytime
+
+🌟 NO HIDDEN FEATURES
+
+This is a straightforward mileage tracking app. No subscription required, no freemium nonsense, no dark patterns. Download, use, and own your data.
+
+📱 COMPATIBLE WITH
+
+• Android 8.0 and above
+• All device sizes (phones, tablets)
+• Responsive design adapts to your screen
+
+Get started today and take control of your vehicle's efficiency tracking!
+
+Questions? Issues? Leave a review or contact us through the Play Store.
+
+=====================================================
+WHAT'S NEW (Latest Version)
+=====================================================
+
+✓ Added image_picker support for vehicle photos
+✓ Persistent data storage - data survives app restarts
+✓ Settings persistence - accent color, dark mode, units saved
+✓ Responsive bottom navigation bar
+✓ No highlights on card selections
+✓ Improved Android SDK compatibility (compiled against SDK 36)
+✓ Adaptive app icons for all device shapes
+✓ Bug fixes and stability improvements
+
+=====================================================
+CATEGORY & RATING
+=====================================================
+
+Category: Productivity / Lifestyle
+Content Rating: Everyone (3+)
+In-App Purchases: None
+Ads: None
+Privacy: We do not collect any data
+
+=====================================================
+KEYWORDS FOR STORE LISTING
+=====================================================
+
+mileage, fuel efficiency, car tracker, vehicle tracker, mpg calculator, km/l calculator, fuel cost tracker, vehicle maintenance, car maintenance, mileage log, fuel log, expense tracker, car app, vehicle app, privacy app, offline app, no ads, no tracking
+
+=====================================================
+PROMOTIONAL TEXT (Optional - 80 characters)
+=====================================================
+
+Track fuel efficiency with complete privacy. All data stays on your device.
+
+=====================================================
